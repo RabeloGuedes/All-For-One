@@ -13,7 +13,7 @@ Projeto da [Trybe](https://www.betrybe.com/) - Bloco 20 - Criação de queries e
 <details>
   <summary><strong>🏆 Meu desempenho</strong></summary><br />
 
-  <img src="project-info/requisitos-all-for-one.gif"/>
+  <img src="project-infos/requisitos-all-for-one.gif"/>
 </details>
 
 ## 🚀 Tecnologias
@@ -63,7 +63,7 @@ Project from [Trybe](https://www.betrybe.com/) - Block 20 - SQL queries creation
 <details>
   <summary><strong>🏆 My accomplishment</strong></summary><br />
 
-  <img src="project-info/requisitos-all-for-one.gif"/>
+  <img src="project-infos/requisitos-all-for-one.gif"/>
 </details>
 
 ## 🚀 Technologies
@@ -113,7 +113,7 @@ Projekt von [Trybe](https://www.betrybe.com/) - Block 20 - SQL queries Entwicklu
 <details>
   <summary><strong>🏆 Meine Leistung</strong></summary><br />
 
-  <img src="project-info/requisitos-all-for-one.gif"/>
+  <img src="project-infos/requisitos-all-for-one.gif"/>
 </details>
 
 ## 🚀 Technologies
